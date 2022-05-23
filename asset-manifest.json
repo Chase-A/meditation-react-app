@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/meditation-react-app/static/css/main.073c9b0a.css",
-    "main.js": "/meditation-react-app/static/js/main.8ea72d66.js",
+    "main.css": "/meditation-react-app/static/css/main.b798b31e.css",
+    "main.js": "/meditation-react-app/static/js/main.b852e233.js",
     "static/js/787.76bbec08.chunk.js": "/meditation-react-app/static/js/787.76bbec08.chunk.js",
-    "static/media/logo.svg": "/meditation-react-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/flower.svg": "/meditation-react-app/static/media/flower.a10ddaaf6aa236267e019fc57ace55e8.svg",
+    "static/media/background.jpg": "/meditation-react-app/static/media/background.5f3514ec1d5c15d18088.jpg",
+    "static/media/link.svg": "/meditation-react-app/static/media/link.d7099d560489dc8502683a2d1c616d2a.svg",
     "index.html": "/meditation-react-app/index.html",
-    "main.073c9b0a.css.map": "/meditation-react-app/static/css/main.073c9b0a.css.map",
-    "main.8ea72d66.js.map": "/meditation-react-app/static/js/main.8ea72d66.js.map",
+    "static/media/play-btn.svg": "/meditation-react-app/static/media/play-btn.579e382c1b1a44240ff716a649833a2f.svg",
+    "static/media/dots.svg": "/meditation-react-app/static/media/dots.188da668f00c7c94c1b032332e1fe8d5.svg",
+    "static/media/star-empty.svg": "/meditation-react-app/static/media/star-empty.74cf69179639f5ee5f5caf9bdaa01d7f.svg",
+    "main.b798b31e.css.map": "/meditation-react-app/static/css/main.b798b31e.css.map",
+    "main.b852e233.js.map": "/meditation-react-app/static/js/main.b852e233.js.map",
     "787.76bbec08.chunk.js.map": "/meditation-react-app/static/js/787.76bbec08.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.8ea72d66.js"
+    "static/css/main.b798b31e.css",
+    "static/js/main.b852e233.js"
   ]
 }
