@@ -1,11 +1,16 @@
 import './Main.css'
 import MeditationCard from "./MeditationCard.js";
 
-function Main(){
+function Main(props){
+    const meditations = props.data
     return(
         <main>
-            <MeditationCard />
-            <MeditationCard />
+            {
+                meditations.map((meditation) => <MeditationCard 
+                title={meditation.title} 
+                embedId={meditation.embedId} 
+                start={meditation.start}/>)
+            }
         </main>
     )
 }
